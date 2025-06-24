@@ -1,11 +1,13 @@
 # csszengarden.com
 
+"A demonstration of what can be accomplished through CSS-based design"
+
 (Phil's notes: I dont have anything to add to the source. I only forked it 
  because it is so amazing, I want to make sure this is never lost!! Original README follows...)
 
 ============================================================================
 
-The official repo of the [CSS Zen Garden](csszengarden.com).
+The official repo of the [CSS Zen Garden](https://csszengarden.com).
 
 Pull requests with improvements welcomed, but remember that changes to the
 HTML file affect the entire archive of 200+ designs. If you're changing the
