@@ -3,7 +3,14 @@
 "A demonstration of what can be accomplished through CSS-based design"
 
 (Phil's notes: I dont have anything to add to the source. I only forked it 
- because it is so amazing, I want to make sure this is never lost!! Original README follows...)
+ because it is so amazing, I want to make sure this is never lost!!
+ 
+ If you are even vaguely considering creating a web page, and have never seen
+ what is possible with CSS, I strongly recommend you click through and gaze
+ in wonder at what is indeed possible.  All the examples have the identical
+ page contents, merely presented with a different CSS style.
+ 
+ Original README follows...)
 
 ============================================================================
 
