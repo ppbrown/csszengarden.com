@@ -1,8 +1,11 @@
 # csszengarden.com
 
-The official repo of the CSS Zen Garden.
 (Phil's notes: I dont have anything to add to the source. I only forked it 
- because it is so amazing, I want to make sure this is never lost!!)
+ because it is so amazing, I want to make sure this is never lost!! Original README follows...)
+
+============================================================================
+
+The official repo of the CSS Zen Garden.
 
 Pull requests with improvements welcomed, but remember that changes to the
 HTML file affect the entire archive of 200+ designs. If you're changing the
