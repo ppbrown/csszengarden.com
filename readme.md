@@ -5,7 +5,7 @@
 
 ============================================================================
 
-The official repo of the CSS Zen Garden.
+The official repo of the [CSS Zen Garden](csszengarden.com).
 
 Pull requests with improvements welcomed, but remember that changes to the
 HTML file affect the entire archive of 200+ designs. If you're changing the
